@@ -1,4 +1,4 @@
-#CSS USEFUL LINES
+<h1>CSS USEFUL LINES</h1>
 
 Tus proyectos apestan, y lo van a seguir haciendo hasta que corrijas lo que te voy a mostrar acá.
 
@@ -6,8 +6,8 @@ Cada navegador se encarga de hacer lo que le plazca con aquellas cosas que no le
 
 Hay detalles que sólo los sufren los clientes; no vos, desarrollador.
 
-
-##Index
+<hr/>
+<h2>Index</h2>
 
 * [Estilar la Barra de Scroll](#scroll)
 
@@ -17,7 +17,7 @@ Hay detalles que sólo los sufren los clientes; no vos, desarrollador.
 
 * [Te regalo unos Atajos](#snippets)
 
-
+<hr/>
 <h3 id="scroll">Estilar la Barra de Scroll</h3>
 
 Ancho de la barra de scroll
@@ -49,7 +49,7 @@ body::-webkit-scrollbar-thumb {
 }
 ```
 
-
+<hr/>
 <h3 id="toucheffect">Quitar efectos en Dispositivos Mobiles</h3>
 
 
@@ -63,7 +63,7 @@ a, img, button {
 }
 ```
 
-
+<hr/>
 <h3 id="inputnum">Quitar Flechitas del Input Number</h3>
 
 
@@ -73,7 +73,7 @@ Presiona
 - Luego en css.json (CSS)
 - Y pega el contenido de css.json de este repositorio
 
-###YA PODÉS USAR LOS ATAJOS
+<h3>YA PODÉS USAR LOS ATAJOS</h3>
 - `scrollb`: Añade una barra de scroll sencilla oscura
 - `lscrollb`: Añade una barra de scroll sencilla clara
 - `numinp`: Quita las flechitas de los input de números

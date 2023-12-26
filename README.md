@@ -1,4 +1,4 @@
-#CSS USEFUL LINES
+<h1>CSS USEFUL LINES</h1>
 
 Your projects stink, and they’re going to keep stinking until you fix what I’m going to show you here.
 
@@ -6,8 +6,8 @@ Each browser takes it upon itself to do whatever it pleases with those things th
 
 There are details that only the clients suffer; not you, the developer.
 
-
-##Index
+<hr/>
+<h2>Index</h2>
 
 * [Scroll Bar Styles](#scroll)
 
@@ -17,7 +17,7 @@ There are details that only the clients suffer; not you, the developer.
 
 * [Get Snippets](#snippets)
 
-
+<hr/>
 <h3 id="scroll">Scroll Bar Styles</h3>
 
 Scrollbar Width
@@ -49,7 +49,7 @@ body::-webkit-scrollbar-thumb {
 }
 ```
 
-
+<hr/>
 <h3 id="toucheffect">Touch Effect on Mobile</h3>
 
 
@@ -62,7 +62,7 @@ a, img, button {
 }
 ```
 
-
+<hr/>
 <h3 id="inputnum">Input Number Details</h3>
 
 
@@ -79,7 +79,7 @@ input[type=number] {
 }
 ```
 
-
+<hr/>
 <h3 id="snippets">Get Snippets</h3>
 
 
@@ -88,7 +88,7 @@ input[type=number] {
 - Select "css.json (CSS)" file
 - Paste the content of css.json (of this repository) there
 
-###ENJOY THE SNIPPETS
+<h3>ENJOY THE SNIPPETS</h3>
 - `scrollb`: Scrollbar Styles Base Dark
 - `lscrollb`: Scrollbar Styles Base Light
 - `numinp`: Remove Up/Down Arrows into Input Number
