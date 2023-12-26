@@ -74,7 +74,7 @@ Presiona
 - Y pega el contenido de css.json de este repositorio
 
 <h3>YA PODÉS USAR LOS ATAJOS</h3>
-<b>scrollb</b>: Añade una barra de scroll sencilla oscura
-<b>lscrollb</b>: Añade una barra de scroll sencilla clara
-<b>numinp</b>: Quita las flechitas de los input de números
-<b>rmtap</b>: Quita el efecto al tocar en enlaces en dispositivos mobiles
+- <b>scrollb:</b> Añade una barra de scroll sencilla oscura <br/>
+- <b>lscrollb:</b> Añade una barra de scroll sencilla clara <br/>
+- <b>numinp:</b> Quita las flechitas de los input de números <br/>
+- <b>rmtap:</b> Quita el efecto al tocar en enlaces en dispositivos mobiles <br/>
