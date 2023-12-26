@@ -82,6 +82,7 @@ input[type=number] {
 
 <hr/>
 <h3 id="snippets">Te regalo unos Atajos</h3>
+
 Presiona
 - `Ctrl + Shift + P`
 - Luego en Snippets
