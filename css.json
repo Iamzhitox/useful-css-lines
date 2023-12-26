@@ -1,0 +1,60 @@
+{
+    "Scrollbar Dark": {
+        "prefix": "scrollb",
+        "body": [
+            "body::-webkit-scrollbar {\n",
+            "\twidth: 4px;\n",
+            "}\n",
+            "body::-webkit-scrollbar-track {\n",
+            "\tbackground-color: transparent;\n",
+            "}\n",
+            "body::-webkit-scrollbar-thumb {\n",
+            "\tbackground-color: rgba(0, 0, 0, 0.1);\n",
+            "\tborder-radius: 10px;\n",
+            "}"
+        ],
+        "description": "Scrollbar Styles Base Dark"
+    },
+    "Scrollbar Light": {
+        "prefix": "lscrollb",
+        "body": [
+            "body::-webkit-scrollbar {\n",
+            "\twidth: 4px;\n",
+            "}\n",
+            "body::-webkit-scrollbar-track {\n",
+            "\tbackground-color: transparent;\n",
+            "}\n",
+            "body::-webkit-scrollbar-thumb {\n",
+            "\tbackground-color: rgba(255, 255, 255, 0.1);\n",
+            "\tborder-radius: 10px;\n",
+            "}"
+        ],
+        "description": "Scrollbar Styles Base Light"
+    },
+    "Input Number Without Details": {
+        "prefix": "numinp",
+        "body": [
+            "input[type=number]::-webkit-inner-spin-button, \n",
+            "input[type=number]::-webkit-outer-spin-button { \n",
+            "\t-webkit-appearance: none; \n",
+            "\tmargin: 0; \n",
+            "}\n",
+            "input[type=number] {\n",
+            "\t-moz-appearance:textfield;\n",
+            "}"
+        ],
+        "description": "Remove Arrows into Input Number"
+    },
+    "Remove Tap Effect": {
+        "prefix": "rmtap",
+        "body": [
+            "a, img, button {\n",
+            "\ttext-decoration: none;\n",
+            "\tuser-select: none;\n",
+            "\t-webkit-tap-highlight-color: transparent;\n",
+            "}\n"
+        ],
+        "description": "Remove Tap Effect on Mobile Browsers"
+    }
+
+}
