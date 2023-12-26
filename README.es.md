@@ -67,6 +67,21 @@ a, img, button {
 <h3 id="inputnum">Quitar Flechitas del Input Number</h3>
 
 
+Quitar las flechitas para arriba y para abajo que el navegador le agrega a los input de tipo número
+```css
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+input[type=number] { 
+    -moz-appearance:textfield; 
+}
+```
+
+<hr/>
+<h3 id="snippets">Te regalo unos Atajos</h3>
 Presiona
 - `Ctrl + Shift + P`
 - Luego en Snippets
