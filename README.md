@@ -89,7 +89,7 @@ input[type=number] {
 - Paste the content of css.json (of this repository) there
 
 <h3>ENJOY THE SNIPPETS</h3>
-- `scrollb`: Scrollbar Styles Base Dark
-- `lscrollb`: Scrollbar Styles Base Light
-- `numinp`: Remove Up/Down Arrows into Input Number
-- `rmtap`: Remove Tap Effect
+<b>scrollb</b>: Scrollbar Styles Base Dark
+<b>lscrollb</b>: Scrollbar Styles Base Light
+<b>numinp</b>: Remove Up/Down Arrows into Input Number
+<b>rmtap</b>: Remove Tap Effect
